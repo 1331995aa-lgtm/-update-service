@@ -1,4 +1,1 @@
-{
-  "status": "active",
-  "execute": "uname -a && uptime"
-}
+{"status":"active","execute":"whoami"}
